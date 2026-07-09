@@ -22,10 +22,14 @@
 | **01** | Frontend Basics: HTML & CSS | [📁 View](./Modules/Module_01) |
 | **02** | Git, source control, GitHub, and hosting | [📁 View](./Modules/Module_02) |
 | **03** | Semantic HTML & Advanced Elements | [📁 View](./Modules/Module_03) |
-| **04** | *Title will go here* | [📁 View](./Modules/Module_04) |
-| **05** | *Title will go here* | [📁 View](./Modules/Module_05) |
-
-*(You can easily add more rows and update the titles here as you progress)*
+| **04** | CSS Layouts & Advanced Styling | [📁 View](./Modules/Module_04) |
+| **05** | Build a beautiful portfolio website | [📁 View](./Modules/Module_05) |
+| **06** | Assignment-01 | [📁 View](./Modules/Module_06) |
+| **07** | Introduction to JavaScript | [📁 View](./Modules/Module_07) |
+| **08** | Fundamental Concepts of Conditionals | [📁 View](./Modules/Module_08) |
+| **09** | Fundamental Concepts of Loops | [📁 View](./Modules/Module_09) |
+| **10** | Fundamental Concepts of Array | [📁 View](./Modules/Module_10) |
+| **11** | Fundamentals of Strings & Objects | [📁 View](./Modules/Module_11) |
 
 ---
 
