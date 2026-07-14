@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fad3d3;
+    max-width: 100%;
+}
+
+nav {
+    border: 2px solid rgb(99, 98, 98);
+}
+
+.banner {
+    display: flex;
+    background-color: #bbe6f7;
+    text-align: center;
+}
+
+.banner-content {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.banner-content button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 16px;
+    box-shadow: 5px 5px 4px #2b2a2a1a;
+}
+
+.banner-content button a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner-content button:hover {
+    background-color: #f5dddd;
+}
+
+.banner-img-container {
+    flex: 1;
+    padding: 20px;
+}
+
+.banner-img-container img {
+    width: 300px;
+    height: auto;
+}
