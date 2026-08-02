@@ -1,0 +1,76 @@
+আজকে প্রথম Complete Portfolio Website বানানোর শুরু! (মডিউল ৫)
+#module_release #portfolio_milestone #module_5
+
+
+এতদিন HTML আর CSS-এর বিভিন্ন concept শিখছো। এবার সেই knowledge ব্যবহার করে শুরু করবে প্রথম Complete Portfolio Website।
+
+
+এই মডিউলে শুরু থেকে ধাপে ধাপে একটি সুন্দর এবং professional portfolio website তৈরি করবে। শুধু HTML-CSS practice না, বরং একজন developer যেভাবে project শুরু করে, design follow করে, resource manage করে—সেই workflow-ও শিখবে।
+
+
+আজকের বিষয়বস্তু:
+শুরুতেই থাকবে পুরো project-এর introduction। এরপর Figma, Penpot, GitHub repository setup এবং project structure সম্পর্কে ধারণা দেওয়া হবে, যাতে শুরু থেকেই professional workflow-এর সাথে পরিচিত হতে পারো।
+
+
+এরপর project overview দেখে Live Server ব্যবহার করে project run করবে এবং website-এর Navigation Bar তৈরি করা শুরু করবে।
+
+
+তারপর Google Font যোগ করা, Navbar alignment ঠিক করা এবং website-এর typography সুন্দর করার কাজ করবে।
+
+
+এরপর Flexbox ব্যবহার করে Banner Section তৈরি করবে। Banner content এবং Portfolio image সুন্দরভাবে arrange করা শিখবে।
+
+
+এরপর তৈরি করবে About Section, যেখানে নিজের পরিচয়, information এবং description সুন্দরভাবে উপস্থাপন করবে।
+
+
+তারপর থাকবে Technical Skills Section। নিজের skill গুলো professional way-তে display করার layout তৈরি করবে।
+
+
+এরপর Home Task হিসেবে Gallery Section তৈরি করবে এবং ThemeForest ও Dribbble থেকে design inspiration নেওয়া শিখবে। একজন developer কিভাবে design analyse করে সেটাও বুঝতে পারবে।
+
+
+সবশেষে Font Awesome ব্যবহার করে Icon যোগ করবে এবং Footer Section তৈরি করে website-এর প্রথম version সম্পূর্ণ করবে।
+
+
+এই মডিউল কেন গুরুত্বপূর্ণ?
+এটাই তোমার প্রথম complete website।
+
+
+এখান থেকে শুধু HTML আর CSS লিখাই না, বরং project structure, clean code, design follow করা, reusable component ভাবা—এসব অভ্যাস তৈরি হবে।
+
+
+Portfolio project শেষ হলে তোমার confidence আগের চেয়ে অনেক বেড়ে যাবে।
+
+
+Project Links:
+🌐 Live Project:
+https://habib-utsho.github.io/b14-web-dev-portfolio 
+
+
+💻 GitHub Repository:
+https://github.com/ProgrammingHero1/b14-web-dev-portfolio 
+
+
+📂 Project Resources:
+https://github.com/ProgrammingHero1/b14-portfolio-resources  
+
+
+📝 Practice Task:
+https://github.com/ProgrammingHero1/new-year-offer-resources 
+
+
+প্র্যাকটিস:
+ভিডিও দেখে শুধু copy-paste করো না।
+প্রতিটা section নিজের হাতে বানাও।
+একবার video দেখে বানাও।
+তারপর video বন্ধ করে আবার নিজে বানানোর চেষ্টা করো।
+যেখানে আটকে যাবে, সেখানেই আসল শেখা শুরু হবে।
+ইচ্ছা হলে নিজের মতো করে color, font, spacing কিংবা layout একটু পরিবর্তন করে দেখতে পারো। Experiment করতে ভয় পেও না।
+
+
+পুরো Portfolio Website নিজের হাতে শেষ করার চেষ্টা করো।
+Video follow করো, কিন্তু অন্ধভাবে copy করো না।
+প্রতিটা line code কেন লিখছো সেটা বোঝার চেষ্টা করো।
+মনে রেখো, একজন Developer project শেষ করে না—project বুঝে শেষ করে।
+হ্যাপি ওয়েব ডেভেলপমেন্ট। 🚀
